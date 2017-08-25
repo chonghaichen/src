@@ -6,5 +6,6 @@
 - [JS 常用代码](//github.com/jsfront/src/blob/master/js.md)
 
 
-# 加群说明
+# 加群说明 测试
 [JS高级前端开发群加群说明](http://www.cnblogs.com/jikey/p/4426105.html)
+ 
